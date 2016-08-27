@@ -1,0 +1,8 @@
+<config>
+    <modules>
+        <Tlm_Transactionalemailvc>
+            <active>true</active>
+            <codePool>community</codePool>
+        </Tlm_Transactionalemailvc>
+    </modules>
+</config>
